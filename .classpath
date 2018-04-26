@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/avro-tools-1.8.2.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/slf4j-all-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/hive-jdbc-1.2.1000.2.4.2.12-1.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/hive-jdbc-0.13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/hive-jdbc-0.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/datanucleus-rdbms-3.2.9.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/datanucleus-core-3.2.10.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/datanucleus-api-jdo-3.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ajay_singhal/Desktop/Hadoop jars/commons-configuration-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
